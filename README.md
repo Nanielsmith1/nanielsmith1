@@ -1,8 +1,8 @@
-<h1>Hi, I'm Nick!  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Nick!  <a href="https://www.linkedin.com/in/nicholas-smith-naniel/">Cybersecurity Professional</a>,
 <h2>👨‍💻 Cybersecurty Projects:</h2>
 
 - <b>Active Directory</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/Nanielsmith1/Active-directory-lab)
 
 - <b>Azure SIEM </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
