@@ -7,8 +7,8 @@
 - <b>Azure SIEM </b>
 
 - <b>certificates </b>
-google cybersecurity professional
-working security+
+- <b>google cybersecurity professional</b>
+- <b>working security+</b>
 
 
 
