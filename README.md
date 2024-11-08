@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurty Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Azure SIEM </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
