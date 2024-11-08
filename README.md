@@ -6,6 +6,10 @@
 
 - <b>Azure SIEM </b>
 
+- <b>certificates </b>
+google cybersecurity professional
+working security+
+
 
 
 [linkedin]: https://www.linkedin.com/in/nicholas-smith-naniel/
