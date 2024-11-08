@@ -5,14 +5,7 @@
   - (https://github.com/Nanielsmith1/Active-directory-lab)
 
 - <b>Azure SIEM </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>(Certifications)</b>
-  - Google cybersercurty professional
-  - Currently working on Security+
- 
+
 
 
 [linkedin]: https://www.linkedin.com/in/nicholas-smith-naniel/
